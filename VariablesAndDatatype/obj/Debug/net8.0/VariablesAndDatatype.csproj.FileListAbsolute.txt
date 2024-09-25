@@ -1,0 +1,14 @@
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/bin/Debug/net8.0/VariablesAndDatatype
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/bin/Debug/net8.0/VariablesAndDatatype.deps.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/bin/Debug/net8.0/VariablesAndDatatype.runtimeconfig.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/bin/Debug/net8.0/VariablesAndDatatype.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/bin/Debug/net8.0/VariablesAndDatatype.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/VariablesAndDatatype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/VariablesAndDatatype.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/VariablesAndDatatype.AssemblyInfo.cs
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/VariablesAndDatatype.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/VariablesAndDatatype.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/refint/VariablesAndDatatype.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/VariablesAndDatatype.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/VariablesAndDatatype.genruntimeconfig.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/Debug/net8.0/ref/VariablesAndDatatype.dll
