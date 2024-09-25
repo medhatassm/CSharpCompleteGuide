@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/bin/Debug/net8.0/ControlFlow
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/bin/Debug/net8.0/ControlFlow.deps.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/bin/Debug/net8.0/ControlFlow.runtimeconfig.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/bin/Debug/net8.0/ControlFlow.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/bin/Debug/net8.0/ControlFlow.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ControlFlow.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ControlFlow.AssemblyInfo.cs
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ControlFlow.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ControlFlow.sourcelink.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ControlFlow.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/refint/ControlFlow.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ControlFlow.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ControlFlow.genruntimeconfig.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/Debug/net8.0/ref/ControlFlow.dll
