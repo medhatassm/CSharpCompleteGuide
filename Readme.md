@@ -6,10 +6,11 @@ It’s an object-oriented programming language created by microsoft, **C#** has 
 
 Content :
 
-1. C# Basics Fundamental 
-    - Variables & Data Type
-    - Control Flow
-    - String Syntax
+## C# Basics Fundamental
+
+- Variables & Data Type
+- Control Flow
+- String Syntax
 
 ---
 2. C# Intermediate
