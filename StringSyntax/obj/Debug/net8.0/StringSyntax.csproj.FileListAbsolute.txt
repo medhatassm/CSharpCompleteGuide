@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/bin/Debug/net8.0/StringSyntax
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/bin/Debug/net8.0/StringSyntax.deps.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/bin/Debug/net8.0/StringSyntax.runtimeconfig.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/bin/Debug/net8.0/StringSyntax.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/bin/Debug/net8.0/StringSyntax.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/StringSyntax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/StringSyntax.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/StringSyntax.AssemblyInfo.cs
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/StringSyntax.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/StringSyntax.sourcelink.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/StringSyntax.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/refint/StringSyntax.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/StringSyntax.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/StringSyntax.genruntimeconfig.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/Debug/net8.0/ref/StringSyntax.dll

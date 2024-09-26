@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndDatatype", "Var
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{EF4B1AA6-1F58-44DE-9783-D98183F8F7E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSyntax", "StringSyntax\StringSyntax.csproj", "{AEFF9613-11CD-4416-97D4-2786EE0BECF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{EF4B1AA6-1F58-44DE-9783-D98183F8F7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF4B1AA6-1F58-44DE-9783-D98183F8F7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF4B1AA6-1F58-44DE-9783-D98183F8F7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFF9613-11CD-4416-97D4-2786EE0BECF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFF9613-11CD-4416-97D4-2786EE0BECF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFF9613-11CD-4416-97D4-2786EE0BECF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFF9613-11CD-4416-97D4-2786EE0BECF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
