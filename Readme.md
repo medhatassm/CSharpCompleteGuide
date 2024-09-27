@@ -11,6 +11,7 @@ It’s an object-oriented programming language created by microsoft, **C#** has 
 - Variables & Data Type
 - Control Flow
 - String Syntax
+- Composed Data
 
 ---
 ### C# Intermediate

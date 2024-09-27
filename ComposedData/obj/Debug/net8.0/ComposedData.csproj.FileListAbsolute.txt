@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/bin/Debug/net8.0/ComposedData
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/bin/Debug/net8.0/ComposedData.deps.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/bin/Debug/net8.0/ComposedData.runtimeconfig.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/bin/Debug/net8.0/ComposedData.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/bin/Debug/net8.0/ComposedData.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ComposedData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ComposedData.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ComposedData.AssemblyInfo.cs
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ComposedData.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ComposedData.sourcelink.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ComposedData.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/refint/ComposedData.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ComposedData.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ComposedData.genruntimeconfig.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/Debug/net8.0/ref/ComposedData.dll
