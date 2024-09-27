@@ -59,9 +59,6 @@
         
         ```
         
-
----
-
 - **Array Methods**
     - Array sorting
         
@@ -115,9 +112,6 @@
         int a = Array.IndexOf(arr, 800);
         ```
         
-
----
-
 - **2 Dimensional Array**
     
     if you want to store data as a tabular form, like a table with rows and columns, you need to get familiar with **multidimensional arrays**.
