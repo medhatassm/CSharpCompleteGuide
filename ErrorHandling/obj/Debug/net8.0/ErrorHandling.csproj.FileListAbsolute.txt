@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/bin/Debug/net8.0/ErrorHandling
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/bin/Debug/net8.0/ErrorHandling.deps.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/bin/Debug/net8.0/ErrorHandling.runtimeconfig.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/bin/Debug/net8.0/ErrorHandling.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/bin/Debug/net8.0/ErrorHandling.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ErrorHandling.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ErrorHandling.AssemblyInfo.cs
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ErrorHandling.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ErrorHandling.sourcelink.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ErrorHandling.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/refint/ErrorHandling.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ErrorHandling.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ErrorHandling.genruntimeconfig.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/Debug/net8.0/ref/ErrorHandling.dll

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComposedData", "ComposedDat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "ErrorHandling\ErrorHandling.csproj", "{566366F7-6C54-47CF-9822-6BBC05C1B2A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,5 +48,9 @@ Global
 		{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566366F7-6C54-47CF-9822-6BBC05C1B2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566366F7-6C54-47CF-9822-6BBC05C1B2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566366F7-6C54-47CF-9822-6BBC05C1B2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566366F7-6C54-47CF-9822-6BBC05C1B2A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

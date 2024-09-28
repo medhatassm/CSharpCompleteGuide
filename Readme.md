@@ -13,6 +13,7 @@ It’s an object-oriented programming language created by microsoft, **C#** has 
 - String Syntax
 - Composed Data
 - Functions (Methods)
+- Error Handling
 
 ---
 ### C# Intermediate
