@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComposedData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e710286bbc2c009adc0f685b0a926a3804d120f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb5da1d57290aa208e4801a6ea0492e0e20bc917")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComposedData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComposedData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

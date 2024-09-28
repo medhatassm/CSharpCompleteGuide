@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Func
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "ErrorHandling\ErrorHandling.csproj", "{566366F7-6C54-47CF-9822-6BBC05C1B2A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging", "Debugging\Debugging.csproj", "{8BDFFE7D-3B73-484F-BE8B-349223CEB23D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,5 +54,9 @@ Global
 		{566366F7-6C54-47CF-9822-6BBC05C1B2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{566366F7-6C54-47CF-9822-6BBC05C1B2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{566366F7-6C54-47CF-9822-6BBC05C1B2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDFFE7D-3B73-484F-BE8B-349223CEB23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDFFE7D-3B73-484F-BE8B-349223CEB23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDFFE7D-3B73-484F-BE8B-349223CEB23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDFFE7D-3B73-484F-BE8B-349223CEB23D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
