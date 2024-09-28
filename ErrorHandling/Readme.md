@@ -80,8 +80,10 @@
 - **Built-in Exception**
     
     C# .Net includes built-in exception classes for every possible error, the exception class is the base of all the exception classes.
-    
+  
+    ![exception-classes](https://github.com/user-attachments/assets/5f623e25-8676-49a2-a871-7d4988fdad56)
     ---
+
     
 - Custom Exception
     
