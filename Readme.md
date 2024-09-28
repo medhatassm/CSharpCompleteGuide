@@ -14,6 +14,7 @@ It’s an object-oriented programming language created by microsoft, **C#** has 
 - Composed Data
 - Functions (Methods)
 - Error Handling
+- Debugging
 
 ---
 ### C# Intermediate
