@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSyntax", "StringSynta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComposedData", "ComposedData\ComposedData.csproj", "{76A16F26-E337-46A4-96D2-9F751D69F8F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,5 +42,9 @@ Global
 		{76A16F26-E337-46A4-96D2-9F751D69F8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76A16F26-E337-46A4-96D2-9F751D69F8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76A16F26-E337-46A4-96D2-9F751D69F8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726E7B02-F2F8-46CE-86A5-4A48CBC5523D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

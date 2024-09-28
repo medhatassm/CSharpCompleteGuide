@@ -12,6 +12,7 @@ It’s an object-oriented programming language created by microsoft, **C#** has 
 - Control Flow
 - String Syntax
 - Composed Data
+- Functions (Methods)
 
 ---
 ### C# Intermediate
