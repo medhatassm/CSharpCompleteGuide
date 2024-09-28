@@ -32,8 +32,8 @@
         cast = Convert.ToInt32(number);
         ```
         
-        ![Screenshot 2024-09-29 at 1.08.15 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/68dd489e-1131-47a9-862c-153afc510898/Screenshot_2024-09-29_at_1.08.15_AM.png)
-        
+        ![Screenshot 2024-09-29 at 1 08 15 AM](https://github.com/user-attachments/assets/2e34778b-3a84-485d-be58-fe166a694142)
+
     - Using Try Catch
         
         ```csharp
