@@ -6,7 +6,8 @@
     1. In the C# project, open Program.cs.
     2. Press F5, select the green arrow in the Visual Studio toolbar, or select Debug > Start Debugging to start debugging. The debugger pauses on the breakpoint that you set.
 
-![Screenshot 2024-09-29 at 1.42.57 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/6225361d-a7be-4262-9c02-5f649df1bab3/Screenshot_2024-09-29_at_1.42.57_AM.png)
+    ![Screenshot 2024-09-29 at 1 42 57 AM](https://github.com/user-attachments/assets/2997e02b-411a-49a8-ad26-834377e16592)
+
 
 ---
 
@@ -55,4 +56,4 @@ The Locals window **shows variables defined in the local scope, which is usuall
     
     While you're debugging, you can use **Watch** windows and **QuickWatch** to watch variables and expressions. The windows are only available during a debugging session.
     
-    ![watch-variable.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/88957ce9-0ddc-4120-b422-79f88a2d9191/watch-variable.png)
+    ![watch-variable](https://github.com/user-attachments/assets/5c03f35d-81a2-41a3-83ff-1aa7cd7f771d)
