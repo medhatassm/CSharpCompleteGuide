@@ -165,6 +165,8 @@ extensionMethod.SayWelcomeAndHello();
 
 ### OOP Principles Concept
 
+![7c56f17b-aaa7-4472-a65f-c7767ec5f243_1412x1062](https://github.com/user-attachments/assets/f05139dd-db94-4a31-8adf-30e294674b21)
+
 - **Inheritance**
     
     inherit fields and methods from one class to another, inheritance concept into two category:
@@ -174,8 +176,6 @@ extensionMethod.SayWelcomeAndHello();
     
     > **To inherit use `:` symbol between classes.**
     > 
-
-![7c56f17b-aaa7-4472-a65f-c7767ec5f243_1412x1062](https://github.com/user-attachments/assets/f05139dd-db94-4a31-8adf-30e294674b21)
 
 ```csharp
 public class AnimalBaseClass
