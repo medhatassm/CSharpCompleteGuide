@@ -7,7 +7,7 @@
 
 class and object are tow main aspect of OOP, So a class is a template for object, and object is an instance of a class like image below.
 
-![Screenshot 2024-10-01 at 2.58.23 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/90ead6a3-d4dd-459c-a841-0a0d8a19036d/Screenshot_2024-10-01_at_2.58.23_PM.png)
+![Screenshot 2024-10-01 at 2 58 23 PM](https://github.com/user-attachments/assets/b264a8e5-a643-4a74-bd84-d8e782bb50ca)
 
 - **Class Members**
     
@@ -175,7 +175,7 @@ extensionMethod.SayWelcomeAndHello();
     > **To inherit use `:` symbol between classes.**
     > 
 
-![7c56f17b-aaa7-4472-a65f-c7767ec5f243_1412x1062.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/8aeef5e9-b9c6-4a10-b046-ca217a8b5858/7c56f17b-aaa7-4472-a65f-c7767ec5f243_1412x1062.jpg)
+![7c56f17b-aaa7-4472-a65f-c7767ec5f243_1412x1062](https://github.com/user-attachments/assets/f05139dd-db94-4a31-8adf-30e294674b21)
 
 ```csharp
 public class AnimalBaseClass
