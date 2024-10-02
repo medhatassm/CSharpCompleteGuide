@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.deps.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.runtimeconfig.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.AssemblyInfo.cs
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.sourcelink.json
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/refint/OOPPrinciples.dll
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.pdb
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.genruntimeconfig.cache
+/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/Debug/net8.0/ref/OOPPrinciples.dll

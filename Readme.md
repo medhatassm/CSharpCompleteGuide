@@ -15,10 +15,12 @@ It’s an object-oriented programming language created by microsoft, **C#** has 
 - Functions (Methods)
 - Error Handling
 - Debugging
+- Object Oriented Programming Principles (OOP)
 
 ---
 ### C# Intermediate
 
+- Object Oriented Programming Principles (OOP)
 ---
 ### C# Advanced
 
