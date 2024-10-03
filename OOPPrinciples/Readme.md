@@ -518,3 +518,71 @@ newCat.Mewo();
         cat1.MakeSound();    // Output: "Animal makes a sound." (hiding)
         cat2.MakeSound();    // Output: "Cat makes a sound."
         ```
+---
+
+### Relationships Between Classes
+
+> its about lifetime of classes and how class work together in big projects.
+> 
+- **Association (Use a)**
+    - One to One Relationship
+    - Mean that **class A** use **class B**, but **class A** lifetime not depend on **class B** lifetime.
+        
+        ```csharp
+        class Department
+        {
+            public string? Name { get; set; }
+        }
+        
+        class Employee
+        {
+            public string? Name { get; set; }
+            
+            // Employee Use Department Class 
+            //But Deleting Emplpyee Class will not effect Department
+            public Department? Department { get; set; } 
+        
+        }
+        ```
+        
+- **Aggregation (Has a)**
+    - One to One Relationship & One to Many Relationship
+    - When **class A** has **class B** as fields, but not using it, if **class A** Deleted, it w’ll not effect **class B**, it w’ll just belong to the new **class A.**
+        
+        ```csharp
+        class Department
+        {
+            public string? Name { get; set; }
+        }
+        
+        class Company
+        {
+            public string? Name { get; set; }
+            
+            // Company Has Lot of Department
+        		// But if Company Deleting, Department will not effected
+        		// it will be belong to other company
+            public Department? Department { get; set; } 
+        }
+        ```
+        
+- **Composition (Owns a)**
+    - One to One Relationship & One to Many Relationship
+    - when **class A** has and use **class B** as fields, if **class A** Deleted, **class B** will get deleted also, because **class A** own **class B**.
+        
+        ```csharp
+        class Vicale
+        {
+            public string? Name { get; set; }
+            
+            // Vicale own an Engine, so when vicale is Distoryed,
+        		// the Engine will be distoryed eaither.
+            public Engine? Engine { get; set; } 
+        }
+        
+        class Engine
+        {
+            public string? Model { get; set; }
+            public int CC { get; set; }
+        }
+        ```
