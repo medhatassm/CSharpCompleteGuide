@@ -21,6 +21,9 @@ It’s an object-oriented programming language created by microsoft, **C#** has 
 ### C# Intermediate
 
 - Object Oriented Programming Principles (OOP)
+- Advanced OOP Keywords
+- Project Structure
+
 ---
 ### C# Advanced
 
