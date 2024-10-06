@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Functions/Functions.csproj": {}
+    "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Functions/Functions.csproj": {}
   },
   "projects": {
-    "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Functions/Functions.csproj": {
+    "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Functions/Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Functions/Functions.csproj",
+        "projectUniqueName": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Functions/Functions.csproj",
         "projectName": "Functions",
-        "projectPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Functions/Functions.csproj",
+        "projectPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Functions/Functions.csproj",
         "packagesPath": "/Users/medhat/.nuget/packages/",
-        "outputPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Functions/obj/",
+        "outputPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Functions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/medhat/.nuget/NuGet/NuGet.Config"

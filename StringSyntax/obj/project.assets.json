@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/StringSyntax.csproj",
+      "projectUniqueName": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/StringSyntax/StringSyntax.csproj",
       "projectName": "StringSyntax",
-      "projectPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/StringSyntax.csproj",
+      "projectPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/StringSyntax/StringSyntax.csproj",
       "packagesPath": "/Users/medhat/.nuget/packages/",
-      "outputPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/StringSyntax/obj/",
+      "outputPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/StringSyntax/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/medhat/.nuget/NuGet/NuGet.Config"

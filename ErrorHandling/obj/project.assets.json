@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/ErrorHandling.csproj",
+      "projectUniqueName": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ErrorHandling/ErrorHandling.csproj",
       "projectName": "ErrorHandling",
-      "projectPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/ErrorHandling.csproj",
+      "projectPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ErrorHandling/ErrorHandling.csproj",
       "packagesPath": "/Users/medhat/.nuget/packages/",
-      "outputPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ErrorHandling/obj/",
+      "outputPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ErrorHandling/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/medhat/.nuget/NuGet/NuGet.Config"

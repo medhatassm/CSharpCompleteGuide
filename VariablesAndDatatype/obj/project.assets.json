@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/VariablesAndDatatype.csproj",
+      "projectUniqueName": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/VariablesAndDatatype/VariablesAndDatatype.csproj",
       "projectName": "VariablesAndDatatype",
-      "projectPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/VariablesAndDatatype.csproj",
+      "projectPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/VariablesAndDatatype/VariablesAndDatatype.csproj",
       "packagesPath": "/Users/medhat/.nuget/packages/",
-      "outputPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/obj/",
+      "outputPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/VariablesAndDatatype/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/medhat/.nuget/NuGet/NuGet.Config"

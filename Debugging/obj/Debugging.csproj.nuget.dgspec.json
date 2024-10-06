@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Debugging/Debugging.csproj": {}
+    "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Debugging/Debugging.csproj": {}
   },
   "projects": {
-    "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Debugging/Debugging.csproj": {
+    "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Debugging/Debugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Debugging/Debugging.csproj",
+        "projectUniqueName": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Debugging/Debugging.csproj",
         "projectName": "Debugging",
-        "projectPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Debugging/Debugging.csproj",
+        "projectPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Debugging/Debugging.csproj",
         "packagesPath": "/Users/medhat/.nuget/packages/",
-        "outputPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/Debugging/obj/",
+        "outputPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Debugging/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/medhat/.nuget/NuGet/NuGet.Config"

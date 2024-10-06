@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/ComposedData.csproj",
+      "projectUniqueName": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ComposedData/ComposedData.csproj",
       "projectName": "ComposedData",
-      "projectPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/ComposedData.csproj",
+      "projectPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ComposedData/ComposedData.csproj",
       "packagesPath": "/Users/medhat/.nuget/packages/",
-      "outputPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ComposedData/obj/",
+      "outputPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ComposedData/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/medhat/.nuget/NuGet/NuGet.Config"

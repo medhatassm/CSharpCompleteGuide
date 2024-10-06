@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/ControlFlow.csproj": {}
+    "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ControlFlow/ControlFlow.csproj": {}
   },
   "projects": {
-    "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/ControlFlow.csproj": {
+    "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ControlFlow/ControlFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/ControlFlow.csproj",
+        "projectUniqueName": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ControlFlow/ControlFlow.csproj",
         "projectName": "ControlFlow",
-        "projectPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/ControlFlow.csproj",
+        "projectPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ControlFlow/ControlFlow.csproj",
         "packagesPath": "/Users/medhat/.nuget/packages/",
-        "outputPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/ControlFlow/obj/",
+        "outputPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/ControlFlow/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/medhat/.nuget/NuGet/NuGet.Config"

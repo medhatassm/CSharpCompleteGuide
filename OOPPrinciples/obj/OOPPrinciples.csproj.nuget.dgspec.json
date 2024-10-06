@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/OOPPrinciples.csproj": {}
+    "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/OOPPrinciples/OOPPrinciples.csproj": {}
   },
   "projects": {
-    "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/OOPPrinciples.csproj": {
+    "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/OOPPrinciples/OOPPrinciples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/OOPPrinciples.csproj",
+        "projectUniqueName": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/OOPPrinciples/OOPPrinciples.csproj",
         "projectName": "OOPPrinciples",
-        "projectPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/OOPPrinciples.csproj",
+        "projectPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/OOPPrinciples/OOPPrinciples.csproj",
         "packagesPath": "/Users/medhat/.nuget/packages/",
-        "outputPath": "/Users/medhat/Developer/Console Applications/CSharpCompleteGuide/OOPPrinciples/obj/",
+        "outputPath": "/Users/medhat/Developer/Console Application/CSharpCompleteGuide/OOPPrinciples/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/medhat/.nuget/NuGet/NuGet.Config"

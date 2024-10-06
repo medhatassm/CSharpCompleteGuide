@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VariablesAndDatatype
-build_property.ProjectDir = /Users/medhat/Developer/Console Applications/CSharpCompleteGuide/VariablesAndDatatype/
+build_property.ProjectDir = /Users/medhat/Developer/Console Application/CSharpCompleteGuide/VariablesAndDatatype/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
