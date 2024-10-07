@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedOOP", "AdvancedOOP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectStructure", "ProjectStructure\ProjectStructure.csproj", "{0B710963-C336-4204-B34A-27CEDC772CD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{2012F60A-1AEB-4137-9052-18E48C1F0A45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,5 +82,9 @@ Global
 		{0B710963-C336-4204-B34A-27CEDC772CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B710963-C336-4204-B34A-27CEDC772CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B710963-C336-4204-B34A-27CEDC772CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2012F60A-1AEB-4137-9052-18E48C1F0A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2012F60A-1AEB-4137-9052-18E48C1F0A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2012F60A-1AEB-4137-9052-18E48C1F0A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2012F60A-1AEB-4137-9052-18E48C1F0A45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

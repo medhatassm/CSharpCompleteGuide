@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/bin/Debug/net8.0/Collection
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/bin/Debug/net8.0/Collection.deps.json
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/bin/Debug/net8.0/Collection.runtimeconfig.json
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/bin/Debug/net8.0/Collection.dll
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/bin/Debug/net8.0/Collection.pdb
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/Collection.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/Collection.AssemblyInfo.cs
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/Collection.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/Collection.sourcelink.json
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/Collection.dll
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/refint/Collection.dll
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/Collection.pdb
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/Collection.genruntimeconfig.cache
+/Users/medhat/Developer/Console Application/CSharpCompleteGuide/Collection/obj/Debug/net8.0/ref/Collection.dll
