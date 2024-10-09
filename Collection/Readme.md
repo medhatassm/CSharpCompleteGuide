@@ -259,8 +259,8 @@ print.PrintText/*<string>*/("Hello", 10);
     - **Stack** is **Generics & Non-Generics Collection** you can use both of them but Generics s better, and its **Dynamic size**
         - Using **Last In First Out** process (**LIFO**)
             
-            ![Screenshot 2024-10-08 at 8.01.37 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/f06819bb-2ec0-4815-84ed-93391886e2a6/Screenshot_2024-10-08_at_8.01.37_AM.png)
-            
+            ![Screenshot 2024-10-08 at 8 01 37 AM](https://github.com/user-attachments/assets/d620a2ed-38e8-4e67-a183-2111fe867ff6)
+
             Mean last value add to stack it will be first one to get out from the stack using `Push()` and `Pop()` Methods to make this action.
             
             ```csharp
@@ -288,8 +288,8 @@ print.PrintText/*<string>*/("Hello", 10);
             
             Mean First value add to queue it will be first one to get out from the queue using `Enqueue()` and `Dequeue()` Methods to make this action.
             
-            ![Screenshot 2024-10-08 at 8.11.52 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/1ee76fc0-2215-43f1-8af0-00634bda0f0b/Screenshot_2024-10-08_at_8.11.52_AM.png)
-            
+            ![Screenshot 2024-10-08 at 8 11 52 AM](https://github.com/user-attachments/assets/b4572390-fbe6-4ae6-bfae-7fa5167b0f91)
+
             ```csharp
             Queue<int> queue = new Queue<int>(/* Array */); // First In First Out
             
