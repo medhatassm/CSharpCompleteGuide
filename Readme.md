@@ -27,6 +27,8 @@ It’s an object-oriented programming language created by microsoft, **C#** has 
 ---
 ### C# Advanced
 
+- Collections
+
 
 ## Page:
 
